@@ -185,4 +185,8 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
-  
+
+[gpg]
+
+  program = "gpg2"
+	
