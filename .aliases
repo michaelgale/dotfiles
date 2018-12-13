@@ -5,8 +5,6 @@ alias d="cd ~/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias dsrc="cd ~/Dropbox/src"
-alias dfx="cd ~/Dropbox/FxBricks"
-alias dfxf="cd ~/Dropbox/FxBricks/KickstarterJun2017/Fulfillment/python"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
