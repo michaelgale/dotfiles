@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Set paths
+export PATH="$PATH:/opt/local/bin:/opt/local/sbin:/Users/michaelgale/miniconda3/bin"

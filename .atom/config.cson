@@ -1,0 +1,28 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "language-gfm"
+    ]
+    projectHome: "/Users/michaelgale/Dropbox/src"
+    telemetryConsent: "no"
+    themes: [
+      "dash-ui"
+      "dash-syntax"
+    ]
+  "dash-ui":
+    themeColor: "Orange"
+  editor:
+    scrollPastEnd: true
+  "exception-reporting":
+    userId: "0a2b5791-a2a9-49f7-b73f-04df789a1e1f"
+  "file-icons": {}
+  "seti-syntax":
+    themeColor: "Steel"
+  "seti-ui":
+    compactView: true
+    disableAnimations: true
+    themeColor: "Steel"
+  welcome:
+    showOnStartup: false
