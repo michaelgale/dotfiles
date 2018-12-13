@@ -18,3 +18,7 @@ Thumbs.db
 /.atom/compile-cache/
 /.atom/packages/
 /.atom/storage/
+/.atom/.apm/
+/.atom/.npm/
+/.atom/.node-gyp/
+/.atom/dev/
