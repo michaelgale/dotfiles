@@ -14,10 +14,13 @@
   "dash-ui":
     themeColor: "Orange"
   editor:
+    fontSize: 15
     scrollPastEnd: true
   "exception-reporting":
     userId: "0a2b5791-a2a9-49f7-b73f-04df789a1e1f"
   "file-icons": {}
+  "markdown-preview":
+    useGitHubStyle: true
   "package-sync":
     createOnChange: true
     forceOverwrite: true
